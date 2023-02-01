@@ -22,7 +22,7 @@
 	<a href="https://www.facebook.com/tanvirahmed6147/">
 		<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
-        <a href="tanvir.bd.global@gmail.com">
+        <a href="toukir.developer.bd@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
