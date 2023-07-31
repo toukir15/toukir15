@@ -28,19 +28,15 @@
 </p>
 
 
-
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ## 📈 Stats
 
 <p align="center">
   <img <iwidth="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=toukir15&hide_border=true&theme=radical" />
 </p>
 
+### 💻 Workspace
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## 🔝 Most used languages
 
 <p align="center">
