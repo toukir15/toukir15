@@ -1,4 +1,4 @@
-# Hi there, I'm Toukir Ahmed, an aspiring Fontend Developer. 😃
+# Hi there, I'm Toukir Ahmed, an aspiring Full Stack Developer. 😃
 
 ### 📖 About me
 <p>I'm a Full Stack Developer. I am working with React, HTML5, CSS3, JavaScript (ES6), Node.js, Express.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.</p>
