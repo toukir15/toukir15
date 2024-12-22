@@ -65,9 +65,9 @@
 </p>
 <br/>
 
-
 ### 💻 Workspace
-<br/>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>
+<p >
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
 
