@@ -11,7 +11,7 @@
 
 <p align="center">
 	<a href="https://drive.google.com/file/d/1QbRhHq4b-0YlscryFrjxco6ArR7Qg80Q/view?usp=drive_link">
-		<img src="https://raw.githubusercontent.com/tanvirgithub21/tanvirgithub21/main/resume.svg"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 	</a>
 	<a href="https://www.linkedin.com/in/toukir15/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
