@@ -31,15 +31,6 @@
   <img <iwidth="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=toukir15&hide_border=true&theme=radical" />
 </p>
 
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-## 🔝 Most used languages
-
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukir15&layout=compact&hide_border=true&theme=radical" />
-</p>
-
 ## 💻 Technologies that I know
 
 <p align="center">
@@ -69,5 +60,10 @@
 	<a href="https://developer.android.com" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60" height="60" />
            </a>
-	<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="60" height="60" /> </a>
 </p>
+
+
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
