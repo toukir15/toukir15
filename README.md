@@ -42,3 +42,9 @@
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukir15&layout=compact&hide_border=true&theme=radical" />
 </p>
+
+## 💻 Technologies that I know
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukir15&layout=compact&hide_border=true&theme=radical" />
+</p>
