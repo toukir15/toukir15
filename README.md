@@ -26,10 +26,11 @@
 
 
 ## 📈 Stats
-
+<br/>
 <p align="center">
   <img <iwidth="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=toukir15&hide_border=true&theme=radical" />
 </p>
+<br/>
 
 ## 💻 Technologies that I know
 
@@ -66,6 +67,7 @@
 
 
 ### 💻 Workspace
-
+<br/>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br/>
 
