@@ -33,7 +33,7 @@
 
 ## 💻 Technologies that I know
 
-<p></p>
+<br/>
 <p align="center" >
 	<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="60" height="60" /> </a>
 	<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="60" height="60" /> </a>
@@ -62,6 +62,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60" height="60" />
            </a>
 </p>
+<br/>
 
 
 ### 💻 Workspace
