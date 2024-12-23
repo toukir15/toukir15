@@ -59,16 +59,18 @@
            </a>
 </p>
 <br/>
+## :eyes: Current overview
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
-
+### 🔭 I’m working - In Programming Hero. 
+### 🌱 I’m exploring - Advance motion graphics for web. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+<br/>
 ### 💻 Workspace
 <p >
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
