@@ -61,10 +61,7 @@
 <br/>
 
 ## :eyes: Current overview
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
-
+<br/>
 ### 🔭 I’m currently seeking - Exciting job opportunities in web development.
 ### 🌱 I’m exploring - WebSocket technology and real-time web applications.
 ### 👯 I’m looking - To collaborate on open source projects. 
