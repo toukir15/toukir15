@@ -4,7 +4,7 @@
 <p>I'm a Full Stack Developer. I am working with React, HTML5, CSS3, JavaScript (ES6), Node.js, Express.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.</p>
 
 <br/>
-
+<img src="https://console.cloudinary.com/pm/c-c68286b68dabd89654e688c004f3c3/media-explorer?assetId=b4d9b2ddbdb2557d0d1099728ad0f2bf" />
 <h2 align="center">
    📱 Reach Me 
 </p>
