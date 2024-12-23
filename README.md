@@ -69,7 +69,7 @@
 ### 🌱 I’m exploring - WebSocket technology and real-time web applications.
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To build engaging and interactive web experiences for users.
-### ⚡ Fun fact - Besides web development, I’m deeply interested in machine learning and its applications!
+### ⚡ Fun fact - I’m also passionate about machine learning and its applications!
 <br />
 
 ### 💻 Workspace
