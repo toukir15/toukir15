@@ -11,7 +11,7 @@
   <a href="https://toukirahmed215.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="https://www.facebook.com/toukir.ahmed.215/">
+	<a href="https://www.facebook.com/toukir215/">
 		<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
         <a href="toukir.developer.bd@gmail.com">
