@@ -1,8 +1,3 @@
-# Hi there, I'm Toukir Ahmed, an aspiring Full Stack Developer. 😃
-
-### 📖 About me
-<p>I'm a Full Stack Developer. I am working with React, HTML5, CSS3, JavaScript (ES6), Node.js, Express.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.</p>
-
 <br/>
 <img src="https://i.ibb.co.com/Nr1Yv3t/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 <h2 align="center">
