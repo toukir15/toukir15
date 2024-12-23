@@ -61,7 +61,9 @@
 <br/>
 
 ## :eyes: Current overview
+
 <br/>
+
 ### 🔭 I’m currently seeking - Exciting job opportunities in web development.
 ### 🌱 I’m exploring - WebSocket technology and real-time web applications.
 ### 👯 I’m looking - To collaborate on open source projects. 
