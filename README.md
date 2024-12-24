@@ -23,7 +23,7 @@
 ## 📈 Stats
 <br/>
 <p align="center">
-  <img <iwidth="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=toukir15&hide_border=true&theme=radical" alt="toukir15" />
+  <img <iwidth="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=toukir15&hide_border=true&theme=radical" alt="toukir15" />
 </p>
 <br/>
 
