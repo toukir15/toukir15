@@ -26,13 +26,6 @@
 </p>
 <br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanvirgithub21&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirgithub21&hide_border=true&theme=radical" />
-</p>
-
-
-
 ## 💻 Technologies that I know
 
 <br/>
